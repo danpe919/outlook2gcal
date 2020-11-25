@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\bp64536\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "src"
+    ],
+    "python.analysis.extraPaths": [
+        "src"
+    ]
+}
